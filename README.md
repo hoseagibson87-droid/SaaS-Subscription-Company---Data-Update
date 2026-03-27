@@ -1,11 +1,11 @@
 # 📊 SaaS Customer Churn & Revenue Analysis
 
-## 📌 Overview
+## Overview
 This project analyzes customer churn and revenue trends for a SaaS business.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 The goal is to understand:
 
 - What is driving fluctuations in revenue?
@@ -14,7 +14,7 @@ The goal is to understand:
 
 ---
 
-## 🧩 Project Approach
+## Project Approach
 
 ### 1. Data Quality Assessment
 - Identified missing data (up to 73%)
@@ -33,7 +33,7 @@ The goal is to understand:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 - West region has highest churn (~36%)
 - East region has lowest churn (~20%)
@@ -42,7 +42,7 @@ The goal is to understand:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Investigate regional differences in the West
 - Improve data collection processes
@@ -50,11 +50,11 @@ The goal is to understand:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python (Pandas)
-- Jupyter Notebook
+- Google Colab
 
 ---
 
-## 📁 Project Structure
+
